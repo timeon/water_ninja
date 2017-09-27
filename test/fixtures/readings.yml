@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  value: 9.99
+  read_at: 2017-09-27 06:34:02
+  user_id: 
+
+two:
+  value: 9.99
+  read_at: 2017-09-27 06:34:02
+  user_id: 
